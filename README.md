@@ -25,3 +25,4 @@ The e-commerce platform is developed using Java, a robust and widely used progra
 By incorporating the Strategy, Mediator, and Template Method design patterns, this e-commerce platform becomes more flexible, scalable, and maintainable. Users can choose from different payment methods, communication between components is streamlined, and a standardized process ensures a seamless shopping experience. The application serves as a foundation for building an efficient and adaptable e-commerce solution for various businesses.
 
 Contributions from the open-source community are welcomed to enhance and expand the platform further, making it a comprehensive and robust solution for e-commerce needs.
+
