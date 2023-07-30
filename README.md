@@ -7,11 +7,11 @@ This e-commerce platform is implemented in Java and incorporates three design pa
 ### 1. Strategy Pattern
 
 The Strategy pattern is employed to handle different payment methods during the purchase process. By using this pattern, users can choose their preferred payment method, making the platform more versatile and accommodating to various payment options.
------
+
 ### 2. Mediator Pattern
 
 The Mediator pattern is utilized to facilitate communication between product and user components. This approach promotes loose coupling between different components, improving maintainability and making it easier to expand or modify the platform's features.
------
+
 ### 3. Template Method Pattern
 
 The Template Method pattern defines a standardized process for purchasing products, managing user accounts, and processing payments. Specific steps in this process can be overridden as needed, allowing for customization while maintaining a consistent structure throughout the platform.
